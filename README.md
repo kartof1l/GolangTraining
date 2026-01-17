@@ -1,2 +1,3 @@
 # GolangTraining
-Training for Golang (go language)
+Welcome to the Training for Golang (Go language)
+
